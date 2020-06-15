@@ -6,6 +6,7 @@ function App() {
   return (
     <div >
       <h1>Hello World</h1>
+      <h2>from Abdullah Mir updated first time </h2>
     </div>
   );
 }
