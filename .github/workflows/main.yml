@@ -33,12 +33,9 @@ jobs:
       with:
         cmd: install  
 
-<<<<<<< HEAD
-        
-    - name: build React App  
-=======
+
+
     - name: Creating build  
->>>>>>> a6588f93758ff4db0c883b346d523ea635f7e6c6
       run: yarn build
       
     - name: installing surge
