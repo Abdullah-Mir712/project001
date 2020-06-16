@@ -5,8 +5,7 @@ import './App.css';
 function App() {
   return (
     <div >
-      <h1>Hello World</h1>
-      <h2>from Abdullah Mir updated first time </h2>
+      updated index.html file second time
     </div>
   );
 }
