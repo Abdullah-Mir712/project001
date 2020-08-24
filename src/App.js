@@ -2,12 +2,10 @@ import React from 'react';
 import logo from './logo.svg';
 import './App.css';
 
-function App() {
-  return (
-    <div >
-      updated third time
-    </div>
-  );
-}
+
+
+const App=()=>(<div>
+  used different function
+</div>);
 
 export default App;
